@@ -1,3 +1,5 @@
+This repo is outdated and will be deleted soon, go to this repo instead https://github.com/ChronesDev/Fluid
+
 #Project Fluid 
 
 Q: What is Project Fluid?
